@@ -1,12 +1,12 @@
 {
-  "id": "org.knx",
-  "version": "1.2.6",
+  "id": "org.knx.ej",
+  "version": "1.2.7",
   "compatibility": ">=5.0.0",
   "sdk": 3,
   "brandColor": "#006BB3",
   "name": {
-    "en": "KNX",
-    "nl": "KNX"
+    "en": "KNX(EJ)",
+    "nl": "KNX(EJ)"
   },
   "description": {
     "en": "Living made smart",
